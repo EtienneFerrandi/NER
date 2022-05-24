@@ -1,2 +1,2 @@
 # NER
- NER for medieval encyclopedia for the SourceEncyMe project at IRHT (Paris)
+ NER for medieval encyclopedia for the SourcEncyMe project at IRHT (Paris)
