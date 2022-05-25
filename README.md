@@ -5,5 +5,5 @@ The model has been trained on the basis of the _Lewis & Short_ dictionnary of wh
  
 The dictionnary of the recognized entities througout the encyclopedia of Marcus d'Orvieto is the file "train/training_set.json". Each entity and their position in the corpus are listed. The only entities with their pattern have been listed in the file "temp/results.txt".
 
-The test is applied on another text. A list of the entities without their position and only once referenced is the file "temp/ml_results.txt".
+The test is applied on another text. A list of the entities without their position and only once referenced is the file "temp/results_one_ref.txt". Each entity and their position in the text are listed in the file "test.json".
 
