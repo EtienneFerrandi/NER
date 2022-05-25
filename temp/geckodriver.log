@@ -1383,3 +1383,639 @@ JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\e
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
 JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
 [Parent 24900, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1653506499902	geckodriver	INFO	Listening on 127.0.0.1:59984
+1653506503082	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59985" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofile6JXuDJ"
+1653506504079	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofile6JXuDJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59985/devtools/browser/1cb3e997-3930-4482-8c3d-0bc1cb02d76c
+1653506507714	Marionette	INFO	Listening on port 60009
+Read port: 60009
+1653506507789	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653506790633	Marionette	INFO	Stopped listening on port 60009
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "60194" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofilez9abix"
+1653506786855	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofilez9abix\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60194/devtools/browser/c8edaf2e-4648-4116-b85a-3752306482da
+1653506790314	Marionette	INFO	Listening on port 60217
+Read port: 60217
+1653506790903	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+1653507140790	Marionette	INFO	Stopped listening on port 60217
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "60330" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofileNyz5nj"
+1653507016831	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofileNyz5nj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60330/devtools/browser/c3be8b84-6789-45c2-a87f-7c36416473b5
+1653507020264	Marionette	INFO	Listening on port 60352
+Read port: 60352
+1653507020484	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+1653507141612	Marionette	INFO	Stopped listening on port 60352
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+ngs file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofileJDJjK3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60397/devtools/browser/0053ae1e-b40c-4012-b3fe-fc43a373e412
+1653507140407	Marionette	INFO	Listening on port 60420
+Read port: 60420
+1653507141192	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+1653507265694	Marionette	INFO	Stopped listening on port 60420
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1653507274862	geckodriver	INFO	Listening on 127.0.0.1:60475
+1653507277886	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60476" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofile7Pfq1h"
+1653507279198	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofile7Pfq1h\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60476/devtools/browser/76bcc530-04b4-4b56-b7c3-7b728c7866d6
+1653507282124	Marionette	INFO	Listening on port 60498
+Read port: 60498
+1653507282175	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+1653507361130	Marionette	INFO	Stopped listening on port 60498
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+ngs file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofileM8llhS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60542/devtools/browser/276acd69-22e0-4bd5-a6a5-985d2946443d
+1653507349360	Marionette	INFO	Listening on port 60563
+Read port: 60563
+1653507349468	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+1653507362082	Marionette	INFO	Stopped listening on port 60563
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 7960, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1653507912116	geckodriver	INFO	Listening on 127.0.0.1:60727
+1653507915219	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60728" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofileda3txa"
+1653507916001	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofileda3txa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60728/devtools/browser/80b23edf-d7f8-456e-9385-96bf81784f8c
+1653507918515	Marionette	INFO	Listening on port 60749
+Read port: 60749
+1653507918592	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+1653508269464	Marionette	INFO	Stopped listening on port 60749
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+ngs file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofileBDBNaS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60830/devtools/browser/a415ef55-1ea8-4626-bfab-a01c8a08d2ed
+1653508048250	Marionette	INFO	Listening on port 60853
+Read port: 60853
+1653508048364	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+1653508270266	Marionette	INFO	Stopped listening on port 60853
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "60890" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofileIWp2jN"
+1653508137107	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofileIWp2jN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60890/devtools/browser/bb099d57-0582-48f3-a8c6-81b058ce2dd9
+1653508141511	Marionette	INFO	Listening on port 60915
+Read port: 60915
+1653508141557	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+1653508271070	Marionette	INFO	Stopped listening on port 60915
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+arch.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60957/devtools/browser/987d17d4-5480-487b-9947-68ebef9dd39c
+1653508263523	Marionette	INFO	Listening on port 60978
+Read port: 60978
+1653508263646	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+1653508512056	Marionette	INFO	Stopped listening on port 60978
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 8680, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+_mozprofilebP5E6z\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61026/devtools/browser/0f4d973e-85cb-4d62-bc80-ac5956d44b54
+1653508349733	Marionette	INFO	Listening on port 61046
+Read port: 61046
+1653508349832	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+1653508514623	Marionette	INFO	Stopped listening on port 61046
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+ngs file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofile0VQgtw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61104/devtools/browser/1b27b221-d57f-4548-a561-33665a02e55c
+1653508509086	Marionette	INFO	Listening on port 61126
+Read port: 61126
+1653508509180	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653508605269	Marionette	INFO	Stopped listening on port 61126
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+ngs file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofileJe4o15\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61164/devtools/browser/c087b691-ac0e-4c0a-a2eb-123e25b1f0ad
+1653508549512	Marionette	INFO	Listening on port 61188
+Read port: 61188
+1653508549599	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653508606084	Marionette	INFO	Stopped listening on port 61188
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+ngs file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofilefFZadO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61263/devtools/browser/0af16182-d7ec-49e0-a39d-6655d9692d54
+1653508605843	Marionette	INFO	Listening on port 61286
+Read port: 61286
+1653508605975	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653508741922	Marionette	INFO	Stopped listening on port 61286
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "61331" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofilee4n2r3"
+1653508665771	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofilee4n2r3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61331/devtools/browser/0930c796-609d-4c0a-8b24-b10a83505992
+1653508667902	Marionette	INFO	Listening on port 61355
+Read port: 61355
+1653508668003	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653508740514	Marionette	INFO	Stopped listening on port 61355
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+ngs file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofiledbxjDf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61391/devtools/browser/5c22d68d-8884-46c2-b630-b8d3071067dd
+1653508738270	Marionette	INFO	Listening on port 61410
+Read port: 61410
+1653508738329	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653508868874	Marionette	INFO	Stopped listening on port 61410
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+arch.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61447/devtools/browser/7b676008-0936-4e75-ab8f-3b0b650a6fea
+1653508761723	Marionette	INFO	Listening on port 61469
+Read port: 61469
+1653508761834	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653508869953	Marionette	INFO	Stopped listening on port 61469
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+ngs file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofiles6Gt4d\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61532/devtools/browser/43c46563-9f43-448b-b04f-cf940f45a962
+1653508815369	Marionette	INFO	Listening on port 61552
+Read port: 61552
+1653508815424	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653508870920	Marionette	INFO	Stopped listening on port 61552
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+ngs file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofileazTHh0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61592/devtools/browser/54be6eb9-4278-4e72-b7a8-bc2c5368a1d0
+1653508862558	Marionette	INFO	Listening on port 61614
+Read port: 61614
+1653508862685	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653509028392	Marionette	INFO	Stopped listening on port 61614
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 18936, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+\\Temp\\rust_mozprofilehCBR4u"
+1653508953710	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofilehCBR4u\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61716/devtools/browser/d104aacc-2f0a-496d-89ba-42d409e02751
+1653508956200	Marionette	INFO	Listening on port 61739
+Read port: 61739
+1653508956272	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653509029243	Marionette	INFO	Stopped listening on port 61739
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "61787" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofiled7rqWL"
+1653509021569	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofiled7rqWL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61787/devtools/browser/039e38c9-91da-473c-9bb1-7652441805f8
+1653509023545	Marionette	INFO	Listening on port 61807
+Read port: 61807
+1653509023622	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653509067502	Marionette	INFO	Stopped listening on port 61807
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "61856" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofileC1ub1H"
+1653509065195	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofileC1ub1H\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61856/devtools/browser/8c3a93a2-5594-4c20-89a2-c974558d83f9
+1653509067251	Marionette	INFO	Listening on port 61876
+Read port: 61876
+1653509067304	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+1653509329616	Marionette	INFO	Stopped listening on port 61876
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 15244, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+mozprofilextIKLE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61948/devtools/browser/e2ab601d-3c27-4bb6-97ae-186c05c265d8
+1653509257048	Marionette	INFO	Listening on port 61971
+Read port: 61971
+1653509257176	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+1653509330496	Marionette	INFO	Stopped listening on port 61971
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62030" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofileSv9OVd"
+1653509326501	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofileSv9OVd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62030/devtools/browser/22d13ab3-3d23-4782-b77a-4e54ea814587
+1653509329223	Marionette	INFO	Listening on port 62053
+Read port: 62053
+1653509329393	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+1653509573723	Marionette	INFO	Stopped listening on port 62053
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62126" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofilekLL4Cu"
+1653509560125	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofilekLL4Cu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62126/devtools/browser/b1c6e9af-1dc6-4144-8327-74feccea146b
+1653509562314	Marionette	INFO	Listening on port 62149
+Read port: 62149
+1653509562437	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+1653509860635	Marionette	INFO	Stopped listening on port 62149
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+ngs file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofileiN6KY1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62219/devtools/browser/25ffcd68-bccb-4fd2-9e19-db9f6fdbcb9b
+1653509858524	Marionette	INFO	Listening on port 62241
+Read port: 62241
+1653509858724	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+1653510081300	Marionette	INFO	Stopped listening on port 62241
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62275" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofilejRDvee"
+1653509887318	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofilejRDvee\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62275/devtools/browser/03a15291-795d-4c5b-90a0-e3b4e09536d2
+1653509889316	Marionette	INFO	Listening on port 62295
+Read port: 62295
+1653509889444	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+1653510082234	Marionette	INFO	Stopped listening on port 62295
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+ngs file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofileFUiJb2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62374/devtools/browser/2b25890f-81bb-4d58-bf14-a782d3d400cb
+1653510081748	Marionette	INFO	Listening on port 62397
+Read port: 62397
+1653510081872	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+1653510135292	Marionette	INFO	Stopped listening on port 62397
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+ngs file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofileIBFoSR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62438/devtools/browser/518c846e-d18b-4890-8f69-d7c301cb2577
+1653510130002	Marionette	INFO	Listening on port 62460
+Read port: 62460
+1653510130121	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+1653510487932	Marionette	INFO	Stopped listening on port 62460
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+ngs file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofileH6WtUN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62499/devtools/browser/817a3296-7dcc-41fc-8de9-5bd2d69c0b86
+1653510192490	Marionette	INFO	Listening on port 62521
+Read port: 62521
+1653510192550	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+1653510488702	Marionette	INFO	Stopped listening on port 62521
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62610" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofile7r580n"
+1653510481070	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofile7r580n\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62610/devtools/browser/3c11fecf-18ba-49ed-bf17-f6cbd9f67917
+1653510483299	Marionette	INFO	Listening on port 62631
+Read port: 62631
+1653510483411	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653510693898	Marionette	INFO	Stopped listening on port 62631
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+ngs file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofileNtxEuf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62667/devtools/browser/2349ef8e-6f0e-47b7-97eb-252c7a6b13b0
+1653510519581	Marionette	INFO	Listening on port 62689
+Read port: 62689
+1653510519692	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+1653510695077	Marionette	INFO	Stopped listening on port 62689
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+ngs file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofileJ7zXrW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62733/devtools/browser/25ff45d8-1dfe-4e8d-80c3-0a7586846bb0
+1653510611631	Marionette	INFO	Listening on port 62753
+Read port: 62753
+1653510611775	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653510696841	Marionette	INFO	Stopped listening on port 62753
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+ngs file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofilenGkr4s\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62794/devtools/browser/b207be93-c609-447c-b204-779351f0f6ca
+1653510689326	Marionette	INFO	Listening on port 62827
+Read port: 62827
+1653510689503	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+1653510850634	Marionette	INFO	Stopped listening on port 62827
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+arch.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62900/devtools/browser/4796c745-70eb-45b4-ab16-ea4c81cb7466
+1653510849995	Marionette	INFO	Listening on port 62924
+Read port: 62924
+1653510850095	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+1653511101327	Marionette	INFO	Stopped listening on port 62924
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+ngs file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofileeUyYOa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63014/devtools/browser/28589df0-4410-4cfd-a95c-c2e234689ca5
+1653511100807	Marionette	INFO	Listening on port 63033
+Read port: 63033
+1653511100915	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+1653511135649	Marionette	INFO	Stopped listening on port 63033
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+arch.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63073/devtools/browser/7ef9c166-9aa8-401c-86b3-130d68fe84fa
+1653511134782	Marionette	INFO	Listening on port 63093
+Read port: 63093
+1653511135044	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+1653511243372	Marionette	INFO	Stopped listening on port 63093
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+ileTOl1wr"
+1653511241138	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofileTOl1wr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63139/devtools/browser/cce1cd16-6cc7-417d-b601-fcc34e98b7d8
+1653511243154	Marionette	INFO	Listening on port 63160
+Read port: 63160
+1653511243271	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+1653511315937	Marionette	INFO	Stopped listening on port 63160
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+ileGJrtuP"
+1653511304363	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofileGJrtuP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63199/devtools/browser/a66b3fde-7188-4368-aceb-fb4846e4ce1c
+1653511306329	Marionette	INFO	Listening on port 63221
+Read port: 63221
+1653511306397	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+1653511447305	Marionette	INFO	Stopped listening on port 63221
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+ngs file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofileQgZkEE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63297/devtools/browser/3715867e-6bd6-47f6-b1a9-56833b8626fc
+1653511447483	Marionette	INFO	Listening on port 63321
+Read port: 63321
+1653511447626	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+1653511730830	Marionette	INFO	Stopped listening on port 63321
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+ngs file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofileh8WDiF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63360/devtools/browser/e90b7f03-d588-4525-ba7f-920c8c9b04ee
+1653511530408	Marionette	INFO	Listening on port 63390
+Read port: 63390
+1653511530552	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+1653511731854	Marionette	INFO	Stopped listening on port 63390
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "63443" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofileIXAJqp"
+1653511727272	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofileIXAJqp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63443/devtools/browser/d2efa414-d45a-4da4-af14-91c3fef800be
+1653511729907	Marionette	INFO	Listening on port 63465
+Read port: 63465
+1653511730015	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+1653512000134	Marionette	INFO	Stopped listening on port 63465
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "63551" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofileVEF8GB"
+1653511991656	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofileVEF8GB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63551/devtools/browser/4f6f4b76-0063-431c-a572-7dbff6dd326b
+1653511993786	Marionette	INFO	Listening on port 63572
+Read port: 63572
+1653511993853	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+1653512311968	Marionette	INFO	Stopped listening on port 63572
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+arch.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63666/devtools/browser/c72c7859-4acb-4201-995d-1bdca73da8d2
+1653512312191	Marionette	INFO	Listening on port 63690
+Read port: 63690
+1653512312343	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+1653512496310	Marionette	INFO	Stopped listening on port 63690
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "63748" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofilekyBZim"
+1653512490841	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofilekyBZim\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63748/devtools/browser/0b4e5a3d-f6f9-4906-95c1-65b6d07a0bd0
+1653512492898	Marionette	INFO	Listening on port 63768
+Read port: 63768
+1653512493013	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1653513288851	Marionette	INFO	Stopped listening on port 63768
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+" "localhost" "-no-remote" "-profile" "C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofileEh7liM"
+1653512626334	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofileEh7liM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63830/devtools/browser/b5cbef64-0fd5-4d60-96ac-c44f1eda6193
+1653512628667	Marionette	INFO	Listening on port 63852
+Read port: 63852
+1653512628823	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+1653512636655	Marionette	INFO	Stopped listening on port 63852
+1653512660762	geckodriver	INFO	Listening on 127.0.0.1:63886
+1653512663781	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63887" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofileDKlIDq"
+1653512664206	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofileDKlIDq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63887/devtools/browser/68959dae-f54e-4a15-bf6e-6aecf05f1ab3
+1653512666149	Marionette	INFO	Listening on port 63908
+Read port: 63908
+1653512666244	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+1653512673092	Marionette	INFO	Stopped listening on port 63908
+1653512701012	geckodriver	INFO	Listening on 127.0.0.1:63969
+1653512704047	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63970" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofileI5YWht"
+1653512704458	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofileI5YWht\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63970/devtools/browser/f4ea5ce6-aecd-4db1-a0d9-de029d76ff06
+1653512706291	Marionette	INFO	Listening on port 63989
+Read port: 63989
+1653512706403	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+1653512712314	Marionette	INFO	Stopped listening on port 63989
+1653512746069	geckodriver	INFO	Listening on 127.0.0.1:64015
+1653512749097	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64016" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofilelpRSJw"
+1653512749640	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofilelpRSJw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64016/devtools/browser/9758a5b2-b316-4954-b4df-190e53c664ab
+1653512751504	Marionette	INFO	Listening on port 64037
+Read port: 64037
+1653512751552	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+1653513292990	Marionette	INFO	Stopped listening on port 64037
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+ile6frV46"
+1653512892600	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofile6frV46\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64098/devtools/browser/e69c234c-ec77-4e27-8537-1b8b780720b4
+1653512894819	Marionette	INFO	Listening on port 64119
+Read port: 64119
+1653512894911	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+1653513293805	Marionette	INFO	Stopped listening on port 64119
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 22244, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+mozprofileCgx9yn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64249/devtools/browser/6ac86e41-cf07-4444-9e9c-bf584fbec4a1
+1653513291202	Marionette	INFO	Listening on port 64283
+Read port: 64283
+1653513291288	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+1653513369030	Marionette	INFO	Stopped listening on port 64283
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+arch.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64328/devtools/browser/f12c0c62-3654-4a6f-953b-4128fd554174
+1653513327970	Marionette	INFO	Listening on port 64349
+Read port: 64349
+1653513328070	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+1653513371310	Marionette	INFO	Stopped listening on port 64349
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+ngs file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofileuyRiU0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64388/devtools/browser/01169798-0b8e-4512-88a2-4a9987089c41
+1653513370437	Marionette	INFO	Listening on port 64412
+Read port: 64412
+1653513370558	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+1653513451158	Marionette	INFO	Stopped listening on port 64412
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "64451" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofilemGzjoE"
+1653513436920	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofilemGzjoE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64451/devtools/browser/25970466-f099-44aa-b1bc-35dcfe52d399
+1653513438780	Marionette	INFO	Listening on port 64471
+Read port: 64471
+1653513438840	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+1653513891248	Marionette	INFO	Stopped listening on port 64471
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "64525" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofilemtveGX"
+1653513634493	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofilemtveGX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64525/devtools/browser/131a58b9-0036-47e8-b892-f125ea0088ec
+1653513636470	Marionette	INFO	Listening on port 64545
+Read port: 64545
+1653513636603	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+1653513892426	Marionette	INFO	Stopped listening on port 64545
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+ngs file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofile4HM5jf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64645/devtools/browser/65997b52-c0b4-4152-9570-6c0b43c4eaf0
+1653513890630	Marionette	INFO	Listening on port 64667
+Read port: 64667
+1653513890793	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+1653514362946	Marionette	INFO	Stopped listening on port 64667
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "64783" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofileYxmaiw"
+1653514359523	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofileYxmaiw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64783/devtools/browser/76c4c841-a8bb-4e58-9c2e-b94d7e7827a7
+1653514362679	Marionette	INFO	Listening on port 64806
+Read port: 64806
+1653514362803	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+1653514421068	Marionette	INFO	Stopped listening on port 64806
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+ngs file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofileBxacQa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64871/devtools/browser/f5f85e82-72a7-4ef9-9566-bc83d10b827e
+1653514421242	Marionette	INFO	Listening on port 64894
+Read port: 64894
+1653514421569	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
+1653514467854	Marionette	INFO	Stopped listening on port 64894
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+ngs file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\etien\\AppData\\Local\\Temp\\rust_mozprofile8ys63e\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64933/devtools/browser/5dc8be3b-d1d4-4414-ba94-5f6ca4dec879
+1653514465253	Marionette	INFO	Listening on port 64953
+Read port: 64953
+1653514465336	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sourcencyme.irht.cnrs.fr/build/js/irht_tree_manager.js, line 25: TypeError: $(...).offset() is undefined
