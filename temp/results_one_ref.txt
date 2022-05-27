@@ -65,7 +65,6 @@ Canis:NAME : 5
 Canopus:NAME : 1
 Capaneum:NAME : 1
 Capitolium:NAME : 1
-Capitulum:NAME : 267
 Carbo:NAME : 2
 Caro:NAME : 2
 Cassiodori:NAME : 1

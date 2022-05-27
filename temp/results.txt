@@ -1058,7 +1058,6 @@ Decimo, NAME
 Decimo, NAME
 Augustinus, NAME
 Decimo, NAME
-Capitulum, NAME
 Aquila, NAME
 Isidorus, NAME
 Plinius, NAME
@@ -1556,7 +1555,6 @@ Christo, NAME
 Pauli, NAME
 Christo, NAME
 Secundo, NAME
-Capitulum, NAME
 Ambrosii, NAME
 Iob, NAME
 Torquato, NAME

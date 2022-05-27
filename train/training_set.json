@@ -9025,17 +9025,6 @@
         ]
     },
     {
-        "text": "Capitulum 1: De aquila>",
-        "spans": [
-            {
-                "start": 0,
-                "end": 9,
-                "label": "NAME",
-                "text": "Capitulum"
-            }
-        ]
-    },
-    {
         "text": "Aquila has condiciones siue proprietates inuenitur habere.",
         "spans": [
             {
@@ -12924,12 +12913,6 @@
                 "end": 10,
                 "label": "NAME",
                 "text": "Secundo"
-            },
-            {
-                "start": 758,
-                "end": 767,
-                "label": "NAME",
-                "text": "Capitulum"
             },
             {
                 "start": 782,
