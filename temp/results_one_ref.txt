@@ -1,433 +1,433 @@
-Notum, NAME
-Thraso, NAME
-Dipsas, NAME
-Catulus, NAME
-Edom, NAME
-Asia, NAME
-Petro, NAME
-Hecuba, NAME
-Felix, NAME
-Cassiodori, NAME
-Pape, NAME
-Platonis, NAME
-Helene, NAME
-Atropos, NAME
-Paulo, NAME
-Didoni, NAME
-Phryx, NAME
-Orco, NAME
-Ismaelis, NAME
-Opus, NAME
-Parra, NAME
-Sextus, NAME
-Quintus, NAME
-Proteus, NAME
-Cassiodorum, NAME
-Orpheus, NAME
-Alius, NAME
-Saturnum, NAME
-Magno, NAME
-Claudianus, NAME
-Secundus, NAME
-Avernus, NAME
-Hesperus, NAME
-Catilinam, NAME
-Pilati, NAME
-Virbius, NAME
-Palamedes, NAME
-Lucani, NAME
-Senecam, NAME
-Asiam, NAME
-Hectore, NAME
-Triptolemi, NAME
-Muto, NAME
-Orestes, NAME
-Nasonem, NAME
-Diana, NAME
-Iasonem, NAME
-Simone, NAME
-Saulem, NAME
-Macrobius, NAME
-India, NAME
-Aristoteles, NAME
-Tyrus, NAME
-Tmolus, NAME
-Diane, NAME
-Promethei, NAME
-Marrubium, NAME
-Tullius, NAME
-Campana, NAME
-Canopus, NAME
-Hermetis, NAME
-Pergama, NAME
-Thessalonicam, NAME
-Iob, NAME
-Phasianus, NAME
-Mercurio, NAME
-Euryalum, NAME
-Christi, NAME
-Icarus, NAME
-Alexander, NAME
-Nasonis, NAME
-Maronem, NAME
-Nasoni, NAME
-Bona, NAME
-Ovidius, NAME
-Capitulum, NAME
-Vade, NAME
-Die, NAME
-Nero, NAME
-Regionem, NAME
-Christum, NAME
-Zenonis, NAME
-Pax, NAME
-Artemisiam, NAME
-Sardanapali, NAME
-Gaza, NAME
-Virgilium, NAME
-Ardee, NAME
-Martium, NAME
-Gellius, NAME
-Hercules, NAME
-Belial, NAME
-Averno, NAME
-Romulo, NAME
-Plato, NAME
-Romulum, NAME
-Briareum, NAME
-Campania, NAME
-Martis, NAME
-Orionis, NAME
-Palinurus, NAME
-Franci, NAME
-Cypri, NAME
-Cleopatre, NAME
-Centum, NAME
-Taurum, NAME
-Tydeum, NAME
-Dianam, NAME
-Saturnus, NAME
-Iphis, NAME
-Pietas, NAME
-Mari, NAME
-Ismael, NAME
-Melius, NAME
-Hesperia, NAME
-Saturni, NAME
-Palinuri, NAME
-Gades, NAME
-Siculi, NAME
-Pluto, NAME
-Epiro, NAME
-Hermeti, NAME
-Ioseph, NAME
-Vertumnus, NAME
-Virgilius, NAME
-Israel, NAME
-Sicca, NAME
-Sare, NAME
-Alio, NAME
-Musca, NAME
-Austro, NAME
-Nestoris, NAME
-Constantia, NAME
-Medea, NAME
-Phasis, NAME
-Nemeum, NAME
-Maria, NAME
-Io, NAME
-Pergameni, NAME
-Neptunus, NAME
-Muta, NAME
-Iesum, NAME
-Marcus, NAME
-Memphis, NAME
-Nilus, NAME
-Solinus, NAME
-Solini, NAME
-Pallas, NAME
-Libero, NAME
-Alie, NAME
-Pontum, NAME
-Anser, NAME
-Apuleius, NAME
-Secundo, NAME
-Pelusium, NAME
-Lucinam, NAME
-Thrasonem, NAME
-Styx, NAME
-Catuli, NAME
-Augustinum, NAME
-Asie, NAME
-Lupi, NAME
-Apollo, NAME
-Diti, NAME
-Parum, NAME
-Mercurii, NAME
-Sequana, NAME
-Inachi, NAME
-Equo, NAME
-Terei, NAME
-Marius, NAME
-Augustum, NAME
-Hippolyti, NAME
-Murena, NAME
-Capitolium, NAME
-Babylon, NAME
-Cocytus, NAME
-Licinium, NAME
-Naso, NAME
-Troie, NAME
-Medee, NAME
-Sextum, NAME
-Arbor, NAME
-Baccho, NAME
-Rhadamanthi, NAME
-Circa, NAME
-Bruto, NAME
-Libye, NAME
-Vulcanus, NAME
-Cassiodorus, NAME
-Corduba, NAME
-Novum, NAME
-Equus, NAME
-Atlas, NAME
-Origo, NAME
-Ismaelem, NAME
-Parmenides, NAME
-David, NAME
-Februarius, NAME
-Italie, NAME
-Ciceronis, NAME
-Narcissum, NAME
-Draconis, NAME
-Maius, NAME
-Narcissi, NAME
-Marone, NAME
-Christo, NAME
-Dii, NAME
-Christus, NAME
-Sero, NAME
-Argum, NAME
-Ponto, NAME
-Decimus, NAME
-Tiresias, NAME
-Caro, NAME
-Vertumnum, NAME
-Minoi, NAME
-Achilles, NAME
-Cypris, NAME
-Adam, NAME
-Massa, NAME
-Magna, NAME
-Hore, NAME
-Iris, NAME
-Liber, NAME
-Laium, NAME
-Antonius, NAME
-Letum, NAME
-Pomponius, NAME
-Leo, NAME
-Orate, NAME
-Mane, NAME
-Tarentum, NAME
-Marsi, NAME
-Agrippe, NAME
-Augusto, NAME
-Echini, NAME
-Abraham, NAME
-Paris, NAME
-Phlegethon, NAME
-Noe, NAME
-Copia, NAME
-Pictor, NAME
-Aglauros, NAME
-Antichristi, NAME
-Proserpine, NAME
-Canis, NAME
-Orphei, NAME
-Sion, NAME
-Regulus, NAME
-Gallum, NAME
-Andronicus, NAME
-Luce, NAME
-Lucius, NAME
-Equum, NAME
-Danielis, NAME
-Lucine, NAME
-Medici, NAME
-Arii, NAME
-Venus, NAME
-Calidius, NAME
-Ilion, NAME
-Senonum, NAME
-Aper, NAME
-Reguli, NAME
-Macer, NAME
-Mars, NAME
-Aaron, NAME
-Asphaltites, NAME
-Ilium, NAME
-Eos, NAME
-Aquila, NAME
-Ditis, NAME
-Thersites, NAME
-Tyrio, NAME
-Beda, NAME
-Virgilii, NAME
-Plutonis, NAME
-Victor, NAME
-Narcisso, NAME
-Africa, NAME
-Pavo, NAME
-Isis, NAME
-Patroclum, NAME
-Numam, NAME
-Olympi, NAME
-Leone, NAME
-Moyses, NAME
-Erebi, NAME
-Nisa, NAME
-Levite, NAME
-Sylla, NAME
-Philippo, NAME
-Platonem, NAME
-Salomonis, NAME
-Tydei, NAME
-Perdix, NAME
-Arcadie, NAME
-Saul, NAME
-Murenam, NAME
-Charybdis, NAME
-Simon, NAME
-Rex, NAME
-Sabaoth, NAME
-Carbo, NAME
-Romulus, NAME
-Alii, NAME
-Ponti, NAME
-Martialis, NAME
-Mene, NAME
-Bacchi, NAME
-Midam, NAME
-Tigris, NAME
-Lucina, NAME
-Patroclus, NAME
-Vada, NAME
-Claudiani, NAME
-Alis, NAME
-Chio, NAME
-Alce, NAME
-Letus, NAME
-Saturnie, NAME
-Hieronymi, NAME
-Oceani, NAME
-Salomon, NAME
-Exodo, NAME
-Euphrates, NAME
-Nisum, NAME
-Theophrastus, NAME
-Inde, NAME
-Neptuni, NAME
-Britannie, NAME
-Soli, NAME
-Natale, NAME
-Tempe, NAME
-Secundum, NAME
-Pelias, NAME
-Galli, NAME
-Baal, NAME
-Neptunum, NAME
-Loquens, NAME
-Pauli, NAME
-Pharaone, NAME
-Capaneum, NAME
-Tisiphone, NAME
-Ganges, NAME
-Marte, NAME
-Paulus, NAME
-Rome, NAME
-Homeri, NAME
-Theodectes, NAME
-Passer, NAME
-Sicilia, NAME
-Dardaniis, NAME
-Cicero, NAME
-Augustini, NAME
-Sole, NAME
-Ulixes, NAME
-Cocyto, NAME
-Nise, NAME
-Nasidium, NAME
-Plinius, NAME
-Nerone, NAME
-Cadmo, NAME
-Chore, NAME
-Creta, NAME
-Civilis, NAME
-Tertia, NAME
-Davus, NAME
-Potentiam, NAME
-Mercurium, NAME
-Solus, NAME
-Argo, NAME
-Eva, NAME
-Clitum, NAME
-Macedonem, NAME
-Christicola, NAME
-Flore, NAME
-Theophrastum, NAME
-Latine, NAME
-Mario, NAME
-Daco, NAME
-Magnus, NAME
-Dis, NAME
-Arachne, NAME
-Deidamie, NAME
-Vulcano, NAME
-Pylades, NAME
-Neapolis, NAME
-Saturno, NAME
-Isidorus, NAME
-Cretensis, NAME
-Saulis, NAME
-Gaze, NAME
-Martem, NAME
-Cleopatra, NAME
-Marium, NAME
-Luna, NAME
-Hibernie, NAME
-Nili, NAME
-Saulum, NAME
-Arcanum, NAME
-Cato, NAME
-Februario, NAME
-Titan, NAME
-Minerve, NAME
-Augustinus, NAME
-Nilo, NAME
-Italia, NAME
-Vultur, NAME
-Equi, NAME
-Mercurius, NAME
-Gallus, NAME
-Crassus, NAME
-Calor, NAME
-Mare, NAME
-Iesus, NAME
-Maronis, NAME
-Medicus, NAME
-Argi, NAME
-Nona, NAME
-Duris, NAME
-Nisi, NAME
-Barba, NAME
-Syllam, NAME
-Macedonis, NAME
-Solum, NAME
-Ops, NAME
-Tullii, NAME
-Magni, NAME
-Scylla, NAME
-Macedo, NAME
-Isidorum, NAME
+Aaron:NAME : 2
+Abraham:NAME : 2
+Achilles:NAME : 2
+Adam:NAME : 4
+Africa:NAME : 2
+Aglauros:NAME : 1
+Agrippe:NAME : 1
+Alce:NAME : 1
+Alexander:NAME : 3
+Alie:NAME : 2
+Alii:NAME : 9
+Alio:NAME : 3
+Alis:NAME : 1
+Alius:NAME : 1
+Andronicus:NAME : 1
+Anser:NAME : 1
+Antichristi:NAME : 1
+Antonius:NAME : 1
+Aper:NAME : 1
+Apollo:NAME : 1
+Apuleius:NAME : 1
+Aquila:NAME : 6
+Arachne:NAME : 1
+Arbor:NAME : 1
+Arcadie:NAME : 1
+Arcanum:NAME : 1
+Ardee:NAME : 1
+Argi:NAME : 3
+Argo:NAME : 1
+Argum:NAME : 2
+Arii:NAME : 1
+Aristoteles:NAME : 30
+Artemisiam:NAME : 1
+Asia:NAME : 2
+Asiam:NAME : 1
+Asie:NAME : 1
+Asphaltites:NAME : 1
+Atlas:NAME : 2
+Atropos:NAME : 1
+Augustini:NAME : 1
+Augustinum:NAME : 2
+Augustinus:NAME : 8
+Augusto:NAME : 1
+Augustum:NAME : 1
+Austro:NAME : 2
+Averno:NAME : 1
+Avernus:NAME : 2
+Baal:NAME : 1
+Babylon:NAME : 1
+Bacchi:NAME : 1
+Baccho:NAME : 1
+Barba:NAME : 1
+Beda:NAME : 1
+Belial:NAME : 1
+Bona:NAME : 1
+Briareum:NAME : 1
+Britannie:NAME : 1
+Bruto:NAME : 1
+Cadmo:NAME : 1
+Calidius:NAME : 1
+Calor:NAME : 2
+Campana:NAME : 3
+Campania:NAME : 1
+Canis:NAME : 5
+Canopus:NAME : 1
+Capaneum:NAME : 1
+Capitolium:NAME : 1
+Capitulum:NAME : 267
+Carbo:NAME : 2
+Caro:NAME : 2
+Cassiodori:NAME : 1
+Cassiodorum:NAME : 1
+Cassiodorus:NAME : 13
+Catilinam:NAME : 1
+Cato:NAME : 1
+Catuli:NAME : 1
+Catulus:NAME : 1
+Centum:NAME : 1
+Charybdis:NAME : 1
+Chio:NAME : 1
+Chore:NAME : 1
+Christi:NAME : 25
+Christicola:NAME : 1
+Christo:NAME : 12
+Christum:NAME : 4
+Christus:NAME : 26
+Cicero:NAME : 2
+Ciceronis:NAME : 2
+Circa:NAME : 2
+Civilis:NAME : 1
+Claudiani:NAME : 1
+Claudianus:NAME : 3
+Cleopatra:NAME : 1
+Cleopatre:NAME : 1
+Clitum:NAME : 1
+Cocyto:NAME : 1
+Cocytus:NAME : 2
+Constantia:NAME : 1
+Copia:NAME : 1
+Corduba:NAME : 2
+Crassus:NAME : 1
+Creta:NAME : 1
+Cretensis:NAME : 1
+Cypri:NAME : 1
+Cypris:NAME : 1
+Daco:NAME : 1
+Danielis:NAME : 1
+Dardaniis:NAME : 1
+David:NAME : 5
+Davus:NAME : 1
+Decimus:NAME : 1
+Deidamie:NAME : 1
+Diana:NAME : 1
+Dianam:NAME : 3
+Diane:NAME : 1
+Didoni:NAME : 1
+Die:NAME : 1
+Dii:NAME : 2
+Dipsas:NAME : 1
+Dis:NAME : 1
+Diti:NAME : 2
+Ditis:NAME : 2
+Draconis:NAME : 1
+Duris:NAME : 1
+Echini:NAME : 1
+Edom:NAME : 1
+Eos:NAME : 3
+Epiro:NAME : 1
+Equi:NAME : 1
+Equo:NAME : 1
+Equum:NAME : 1
+Equus:NAME : 1
+Erebi:NAME : 1
+Euphrates:NAME : 1
+Euryalum:NAME : 1
+Eva:NAME : 1
+Exodo:NAME : 1
+Februario:NAME : 1
+Februarius:NAME : 3
+Felix:NAME : 1
+Flore:NAME : 1
+Franci:NAME : 1
+Gades:NAME : 1
+Galli:NAME : 1
+Gallum:NAME : 1
+Gallus:NAME : 2
+Ganges:NAME : 1
+Gaza:NAME : 1
+Gaze:NAME : 1
+Gellius:NAME : 2
+Hectore:NAME : 1
+Hecuba:NAME : 1
+Helene:NAME : 1
+Hercules:NAME : 3
+Hermeti:NAME : 1
+Hermetis:NAME : 1
+Hesperia:NAME : 1
+Hesperus:NAME : 2
+Hibernie:NAME : 1
+Hieronymi:NAME : 1
+Hippolyti:NAME : 1
+Homeri:NAME : 2
+Hore:NAME : 1
+Iasonem:NAME : 1
+Icarus:NAME : 1
+Iesum:NAME : 1
+Iesus:NAME : 6
+Ilion:NAME : 1
+Ilium:NAME : 1
+Inachi:NAME : 1
+Inde:NAME : 4
+India:NAME : 3
+Io:NAME : 1
+Iob:NAME : 5
+Ioseph:NAME : 4
+Iphis:NAME : 2
+Iris:NAME : 1
+Isidorum:NAME : 3
+Isidorus:NAME : 6
+Isis:NAME : 2
+Ismael:NAME : 1
+Ismaelem:NAME : 2
+Ismaelis:NAME : 1
+Israel:NAME : 9
+Italia:NAME : 4
+Italie:NAME : 1
+Laium:NAME : 1
+Latine:NAME : 1
+Leo:NAME : 4
+Leone:NAME : 1
+Letum:NAME : 1
+Letus:NAME : 1
+Levite:NAME : 1
+Liber:NAME : 2
+Libero:NAME : 1
+Libye:NAME : 2
+Licinium:NAME : 1
+Loquens:NAME : 1
+Lucani:NAME : 2
+Luce:NAME : 1
+Lucina:NAME : 1
+Lucinam:NAME : 1
+Lucine:NAME : 1
+Lucius:NAME : 2
+Luna:NAME : 8
+Lupi:NAME : 3
+Macedo:NAME : 3
+Macedonem:NAME : 1
+Macedonis:NAME : 2
+Macer:NAME : 1
+Macrobius:NAME : 2
+Magna:NAME : 1
+Magni:NAME : 1
+Magno:NAME : 1
+Magnus:NAME : 3
+Maius:NAME : 1
+Mane:NAME : 2
+Marcus:NAME : 1
+Mare:NAME : 3
+Mari:NAME : 2
+Maria:NAME : 2
+Mario:NAME : 1
+Marium:NAME : 1
+Marius:NAME : 1
+Marone:NAME : 1
+Maronem:NAME : 1
+Maronis:NAME : 1
+Marrubium:NAME : 1
+Mars:NAME : 5
+Marsi:NAME : 1
+Marte:NAME : 2
+Martem:NAME : 1
+Martialis:NAME : 12
+Martis:NAME : 4
+Martium:NAME : 1
+Massa:NAME : 1
+Medea:NAME : 1
+Medee:NAME : 1
+Medici:NAME : 1
+Medicus:NAME : 1
+Melius:NAME : 1
+Memphis:NAME : 2
+Mene:NAME : 1
+Mercurii:NAME : 6
+Mercurio:NAME : 7
+Mercurium:NAME : 2
+Mercurius:NAME : 12
+Midam:NAME : 1
+Minerve:NAME : 1
+Minoi:NAME : 2
+Moyses:NAME : 6
+Murena:NAME : 1
+Murenam:NAME : 1
+Musca:NAME : 1
+Muta:NAME : 1
+Muto:NAME : 1
+Narcissi:NAME : 4
+Narcisso:NAME : 3
+Narcissum:NAME : 1
+Nasidium:NAME : 1
+Naso:NAME : 2
+Nasonem:NAME : 2
+Nasoni:NAME : 1
+Nasonis:NAME : 2
+Natale:NAME : 1
+Neapolis:NAME : 1
+Nemeum:NAME : 1
+Neptuni:NAME : 3
+Neptunum:NAME : 1
+Neptunus:NAME : 3
+Nero:NAME : 1
+Nerone:NAME : 2
+Nestoris:NAME : 3
+Nili:NAME : 1
+Nilo:NAME : 3
+Nilus:NAME : 2
+Nisa:NAME : 1
+Nise:NAME : 1
+Nisi:NAME : 6
+Nisum:NAME : 2
+Noe:NAME : 1
+Nona:NAME : 1
+Notum:NAME : 4
+Novum:NAME : 1
+Numam:NAME : 1
+Oceani:NAME : 1
+Olympi:NAME : 1
+Ops:NAME : 2
+Opus:NAME : 1
+Orate:NAME : 1
+Orco:NAME : 1
+Orestes:NAME : 1
+Origo:NAME : 1
+Orionis:NAME : 1
+Orphei:NAME : 1
+Orpheus:NAME : 1
+Ovidius:NAME : 10
+Palamedes:NAME : 1
+Palinuri:NAME : 1
+Palinurus:NAME : 1
+Pallas:NAME : 2
+Pape:NAME : 1
+Paris:NAME : 1
+Parmenides:NAME : 1
+Parra:NAME : 2
+Parum:NAME : 1
+Passer:NAME : 1
+Patroclum:NAME : 1
+Patroclus:NAME : 1
+Pauli:NAME : 1
+Paulo:NAME : 2
+Paulus:NAME : 2
+Pavo:NAME : 2
+Pax:NAME : 1
+Pelias:NAME : 1
+Pelusium:NAME : 2
+Perdix:NAME : 1
+Pergama:NAME : 1
+Pergameni:NAME : 1
+Petro:NAME : 1
+Pharaone:NAME : 2
+Phasianus:NAME : 1
+Phasis:NAME : 1
+Philippo:NAME : 1
+Phlegethon:NAME : 2
+Phryx:NAME : 1
+Pictor:NAME : 1
+Pietas:NAME : 1
+Pilati:NAME : 1
+Plato:NAME : 5
+Platonem:NAME : 1
+Platonis:NAME : 2
+Plinius:NAME : 2
+Pluto:NAME : 2
+Plutonis:NAME : 1
+Pomponius:NAME : 1
+Ponti:NAME : 1
+Ponto:NAME : 1
+Pontum:NAME : 1
+Potentiam:NAME : 1
+Promethei:NAME : 1
+Proserpine:NAME : 1
+Proteus:NAME : 2
+Pylades:NAME : 1
+Quintus:NAME : 1
+Regionem:NAME : 1
+Reguli:NAME : 1
+Regulus:NAME : 2
+Rex:NAME : 3
+Rhadamanthi:NAME : 1
+Rome:NAME : 1
+Romulo:NAME : 2
+Romulum:NAME : 1
+Romulus:NAME : 1
+Sabaoth:NAME : 1
+Salomon:NAME : 2
+Salomonis:NAME : 3
+Sardanapali:NAME : 1
+Sare:NAME : 3
+Saturni:NAME : 5
+Saturnie:NAME : 1
+Saturno:NAME : 3
+Saturnum:NAME : 3
+Saturnus:NAME : 10
+Saul:NAME : 1
+Saulem:NAME : 1
+Saulis:NAME : 1
+Saulum:NAME : 1
+Scylla:NAME : 2
+Secundo:NAME : 2
+Secundum:NAME : 19
+Secundus:NAME : 2
+Senecam:NAME : 2
+Senonum:NAME : 1
+Sequana:NAME : 1
+Sero:NAME : 1
+Sextum:NAME : 1
+Sextus:NAME : 1
+Sicca:NAME : 1
+Sicilia:NAME : 1
+Siculi:NAME : 1
+Simon:NAME : 1
+Simone:NAME : 1
+Sion:NAME : 2
+Sole:NAME : 1
+Soli:NAME : 1
+Solini:NAME : 1
+Solinus:NAME : 31
+Solum:NAME : 2
+Solus:NAME : 3
+Styx:NAME : 2
+Sylla:NAME : 1
+Syllam:NAME : 1
+Tarentum:NAME : 1
+Taurum:NAME : 2
+Tempe:NAME : 1
+Terei:NAME : 2
+Tertia:NAME : 10
+Theodectes:NAME : 1
+Theophrastum:NAME : 1
+Theophrastus:NAME : 1
+Thersites:NAME : 1
+Thessalonicam:NAME : 1
+Thraso:NAME : 1
+Thrasonem:NAME : 1
+Tigris:NAME : 1
+Tiresias:NAME : 1
+Tisiphone:NAME : 3
+Titan:NAME : 2
+Tmolus:NAME : 1
+Triptolemi:NAME : 1
+Troie:NAME : 1
+Tullii:NAME : 1
+Tullius:NAME : 3
+Tydei:NAME : 1
+Tydeum:NAME : 1
+Tyrio:NAME : 1
+Tyrus:NAME : 1
+Ulixes:NAME : 1
+Vada:NAME : 1
+Vade:NAME : 1
+Venus:NAME : 11
+Vertumnum:NAME : 1
+Vertumnus:NAME : 1
+Victor:NAME : 1
+Virbius:NAME : 1
+Virgilii:NAME : 2
+Virgilium:NAME : 1
+Virgilius:NAME : 7
+Vulcano:NAME : 1
+Vulcanus:NAME : 2
+Vultur:NAME : 1
+Zenonis:NAME : 1
